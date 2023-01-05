@@ -75,24 +75,6 @@ if (isset($_POST['page_nb'])) {
   $reponse = $freelancer_search->get_search_freelancer();
 
   ?>
-  <script>
-    //this script is not use 
-    jQuery(document).ready(function($) {
-      function ajaxCall() {
-        $.ajax({
-          method: "GET",
-          url: "https://www.freelancer.com/api/projects/0.1/projects/all/?limit=10&query=<?= $_POST['job_search'] ?>&offset=0&full_description=true&job_details=true&user_details=true&user_reputation=true&user_employer_reputation_extra=true&user_country_details=true&user_profile_description=true&user_avatar=true&user_recommendations=true&user_responsiveness=true&user_status=true&compact=true&sanction_details=true&limited_account=true&marketing_mobile_number=true&user_badge_details=true",
-        }).done(function(data) {
-
-          //console.log( "Data Saved: " + msg);
-        });
-      }
-
-      // setInterval (ajaxCall, 50000); 
-
-    })
-  </script>
-
   <table class="tftable" style="border:1px solid #000; position:relative; width:2000px!important;font-size:12px;">
     <tr>
       <th>Titre</th>
