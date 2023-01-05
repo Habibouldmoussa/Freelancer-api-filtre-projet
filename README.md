@@ -25,6 +25,7 @@ Ce que fait l'application
 - Filtre les jobs freelancer selon vos options définis dans le code 
 - Reçois le mot clé que vous cherchez 
 - Affiche un tableau qui résume tous les potentiels jobs intéressants
+- tout ce qui affiché en rouge est potenriellement douteux 
 - Tous les scam et les fake ne s'affiche pas 
 - testé jusqu'à wordpress 5.9
 
