@@ -33,6 +33,7 @@ Ce qu'il ne fait pas
 - les pays est région exclu sont écrit dans le code il ne sont pas encore personnalisables 
 - n'a pas de fonction de trie
 - les risques de jobs-scam de freelancer ne sont pas éliminés à 100% prudence 
+- n'est pas responsive desktop seulement
 - n'est pas esthétique :p 
 
 Wordpress est une vraie plateforme de développement PHP ce n'est pas seulement un traitement de texte en ligne 
