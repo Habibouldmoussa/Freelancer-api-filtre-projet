@@ -13,10 +13,10 @@ https://developers.freelancer.com/docs
 ## Deployment
 
 - 1 Installer wordpress 
-- 2 Installer le thème twentytwenty de base s'il existe pas 
-- 3 Copiez les fichiers dans le répertoir du thème
-- 4 Dans le back office de wordpress personalisez le thème indiqant que la page d'accueil est static
-- 5 créer une page et indéquez comme modele "home php" s'il n'apparaît pas verfiez l'étape 3
+- 2 Installer le thème twentytwenty de base s'il existe pas
+- 3 Copiez les fichiers dans le répertoire du thème
+- 4 Dans le back office de WordPress personnalisé le thème indiquant que la page d'accueil est statique
+- 5 créer une page et indiquez comme modèle "home php" s'il n'apparaît pas vérifiez l'étape 3
 
 
 ## Features
@@ -30,7 +30,7 @@ Ce que fait l'application
 - testé jusqu'à wordpress 5.9
 
 Ce qu'il ne fait pas 
-- les pays est région exclu sont écrit dans le code il ne sont pas encore personnalisables 
+- les pays est région exclus sont écrites dans le code il ne sont pas encore personnalisables
 - n'a pas de fonction de trie
 - les risques de jobs-scam de freelancer ne sont pas éliminés à 100% prudence 
 - n'est pas responsive desktop seulement
